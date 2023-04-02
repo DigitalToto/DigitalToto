@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DigitalToto
 - 👀 I’m interested in digital learning, education and creating a space for exchange and growth.
-- 🌱 I’m currently learning more about creating digital learning spaces (and the basics of coding with python)
+- 🌱 I’m currently learning more about creating digital learning spaces (right now: HTML & CSS, following JavaScript, still a total noob)
 - 📫 How to reach me: Just hit me up via DM.
 
 <!---
